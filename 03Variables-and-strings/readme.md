@@ -51,3 +51,39 @@ my_var = "Eric"
 #int
 my_var = 4
 ```
+
+### concatenation
+
+Joining strings  
+We use the + sign  
+
+```python
+name = "Eric"
+hobby = "drawing"
+
+print(name + " likes "+ hobby)
+```
+
+__Interpolating variables__  
+You cannot concatenate other data types  
+What if you need to concatenate a number?  
+We use __`f`__ at the beginning and the variable name in braces  
+
+```python
+x=7
+statement = f"there are {x} days in a week"
+print(statement)
+```
+
+## String indexes  
+
+The position of characters  
+In python, they begin from 0 (zero)  
+
+```python
+# String indexes
+name = "Eric"
+print(name[0])
+# -ve counts from the end e.g the last character is
+print(name[-1])
+```
