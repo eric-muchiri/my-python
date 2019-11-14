@@ -23,3 +23,13 @@ name = "Eric"
 print(name[0])
 # -ve counts from the end e.g the last character is
 print(name[-1])
+
+#Converting Data types
+myDecimal = 13.4578
+newInt = int(myDecimal)
+#chops off the decimal
+print(newInt)
+
+list1 = [1,2,3,5]
+list1_as_string = str(list1)
+print(list1_as_string)
