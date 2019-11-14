@@ -33,3 +33,9 @@ print(newInt)
 list1 = [1,2,3,5]
 list1_as_string = str(list1)
 print(list1_as_string)
+
+#simple milage converter
+print("How many kilometers did you run today")
+kms = input()
+miles = float(kms)/1.60934
+print(f"the distance in miles is {miles}")
