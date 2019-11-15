@@ -14,3 +14,25 @@ Example:
 name = input("Enter your name: ")
 print("You are "+ name)
 ```
+
+## Conditionals
+
+Represents different paths a program can take based on some comparison  
+**If statements**  
+if condition1:  
+    action to take  
+elif codition2:  
+    alternative action  
+else:
+    default  
+`elif` is an equivalent to `else if` in other languages  
+
+```python
+name = input("Enter your name: ")
+if name == "Doe":
+    print("you own the repo")
+elif name == "John":
+    print("you are a contributor")
+else:
+    print("anonymous")
+```
