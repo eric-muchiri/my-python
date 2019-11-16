@@ -36,3 +36,5 @@ elif name == "John":
 else:
     print("anonymous")
 ```
+
+We can have multiple elifs within a condition which can have multiple outcomes  
