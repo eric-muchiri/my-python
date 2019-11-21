@@ -35,3 +35,16 @@ print (8<10)
 print(6==6)
 print(3>=4)
 print(-9<=9)
+
+#Logical operators
+#Can connect multiple conditions
+# 1.AND
+if name =="Doe" and age == 18:
+    print("cool boy")
+# 2.Or
+if name == "Doe" or name == "Eric":
+    print("we love this")
+# not
+# Truthy if the opposite is true
+if not name == "Doe":
+    print("We wanted doe")
