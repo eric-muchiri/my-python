@@ -17,3 +17,13 @@ elif 25 <= age <=35:
     print("cool")
 else:
     print("somewhat older")
+
+# truthiness
+x = 1
+x is 1
+# is is an equivalent to double equals
+# Things have truthiness and falsiness
+# naturally false things: empty objects, empty strings, none
+if 1:
+    print('awesome!!')
+#We can check for empty strings using truthiness e.g if user doesn't input anything
