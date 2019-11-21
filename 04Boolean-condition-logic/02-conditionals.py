@@ -27,3 +27,11 @@ x is 1
 if 1:
     print('awesome!!')
 #We can check for empty strings using truthiness e.g if user doesn't input anything
+
+# comparisons
+# returns true or false
+print (4>5)
+print (8<10)
+print(6==6)
+print(3>=4)
+print(-9<=9)
