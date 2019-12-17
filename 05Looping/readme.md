@@ -13,3 +13,10 @@ for item in iteratable_object:
 
 Iterable object - Some kind of collection of items e.g a list of names  
 Item - a variable that you can call whatever you want  
+Example:
+
+```python
+#print numbers in a range
+for number in range(1,8):
+    print(number)
+```
