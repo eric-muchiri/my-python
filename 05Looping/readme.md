@@ -20,3 +20,9 @@ Example:
 for number in range(1,8):
     print(number)
 ```
+
+## While loops
+
+Continue to execute while a certain condition is true and ends when the become false  
+You have to specify the termination condition manually  
+
