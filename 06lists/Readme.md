@@ -19,3 +19,14 @@ len(list_name)
 #e.g
 len(tasks)
 ```
+
+__The `list` function__
+Another way to create a list  
+Example using ranges:
+
+```python
+#r = range (1, 10)
+#print(list (r))
+numbers = list (range(1,10))
+print (numbers)
+```
