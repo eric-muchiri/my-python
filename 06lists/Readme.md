@@ -47,3 +47,12 @@ print(tasks[-1])
 ```
 
 The above prints the last item  
+
+## Checking for Items in a list
+
+The `in` keyword is used to check whether an itm is in a list  
+Returns either true or false  
+
+```python
+print("learn" in tasks)
+```
