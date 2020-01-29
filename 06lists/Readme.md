@@ -36,3 +36,14 @@ print (numbers)
 Lists start counting from 0  
 `listname[index]` gives the item in that position  
 
+```python
+print(tasks[1])
+```
+
+A negative number can be used to index backwards  
+
+```python
+print(tasks[-1])
+```
+
+The above prints the last item  
