@@ -30,3 +30,9 @@ Example using ranges:
 numbers = list (range(1,10))
 print (numbers)
 ```
+
+## Accessing data in a list
+
+Lists start counting from 0  
+`listname[index]` gives the item in that position  
+
