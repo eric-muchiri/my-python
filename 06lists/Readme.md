@@ -6,8 +6,16 @@ A way of combining data into one variable
 ## Creating lists
 
 Consists of a name and items in square brackets  
+Items are separated by commas  
 
 ```python
 tasks = ["setup","learn", "code", "relax"]
+```
 
+Check the number of items in a list  
+
+```python
+len(list_name)
+#e.g
+len(tasks)
 ```
