@@ -16,4 +16,10 @@ print("learn" in tasks)
 #Iterate through a list
 for number in numbers:
     print(number)
+# using a while loop
+i = 0
+while i < len(numbers):
+    print (numbers[i])
+    i += 1
+    
 
