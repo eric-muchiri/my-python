@@ -11,4 +11,9 @@ print(tasks[-1])
 
 # check if an item is in a list
 # We use the in keyword
+#returns true or false
 print("learn" in tasks)
+#Iterate through a list
+for number in numbers:
+    print(number)
+
