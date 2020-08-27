@@ -60,5 +60,8 @@ print("learn" in tasks)
 ## list methods
 
 __Append__  
-Add itms at the end of a list  
+Add items at the end of a list  
 Suitable for adding a songle value
+
+__Extend__  
+Suitanle for adding multiple items
