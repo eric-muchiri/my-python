@@ -64,4 +64,4 @@ Add items at the end of a list
 Suitable for adding a songle value
 
 __Extend__  
-Suitanle for adding multiple items
+Suitable for adding multiple items
