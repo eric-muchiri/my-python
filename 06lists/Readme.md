@@ -65,3 +65,7 @@ Suitable for adding a songle value
 
 __Extend__  
 Suitable for adding multiple items
+
+## list comprehension
+
+Different from looping - We can doitin a single line
