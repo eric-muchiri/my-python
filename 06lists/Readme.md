@@ -68,4 +68,4 @@ Suitable for adding multiple items
 
 ## list comprehension
 
-Different from looping - We can doitin a single line
+Different from looping - We can do it in a single line
