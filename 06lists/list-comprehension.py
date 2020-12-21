@@ -11,4 +11,4 @@ for num in numbers:
     doubled_number = num * 2
     doubled_numbers.append(doubled_number)
 
-print(doubled_numbers);
+print(doubled_numbers)
