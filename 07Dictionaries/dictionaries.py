@@ -6,3 +6,7 @@ John = {
 }
 
 print(John)
+
+cat = dict(name = "kitty")
+
+print(cat)
