@@ -10,3 +10,8 @@ print(John)
 cat = dict(name = "kitty")
 
 print(cat)
+
+#accessing individual data
+#pass in a key
+
+print(John['gender'])
