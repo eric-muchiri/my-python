@@ -33,3 +33,18 @@ Passing a key gives the corresponding value
 ```py
 print(John['gender'])
 ```
+
+## Iterating dictionaries
+
+```py
+for value in John.values():
+    print(value)
+
+#.keys for keys
+for key in John.keys():
+    print(key)
+
+#.items for all keys and values
+for key,value in John.items():
+    print(key,value)
+```
