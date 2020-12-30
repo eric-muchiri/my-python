@@ -25,3 +25,11 @@ cat = dict(name = "kitty")
 
 print(cat)
 ```
+
+## Accessing individual values
+
+Passing a key gives the corresponding value  
+
+```py
+print(John['gender'])
+```

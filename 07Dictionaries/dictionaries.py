@@ -15,3 +15,17 @@ print(cat)
 #pass in a key
 
 print(John['gender'])
+
+#iterating dictionaries
+#.values for values
+for value in John.values():
+    print(value)
+
+#.keys for keys
+for key in John.keys():
+    print(key)
+
+#.items for all keys and values
+for key,value in John.items():
+    print(key,value)
+#in a dict order is not guranteed unlike lists
