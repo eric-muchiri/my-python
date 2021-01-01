@@ -48,3 +48,7 @@ for key in John.keys():
 for key,value in John.items():
     print(key,value)
 ```
+
+`In` can be used to test whether a dictionary contains a certain key  
+Example  
+`address in john` returns false because no key called address exists in the dictionary  

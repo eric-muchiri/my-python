@@ -29,3 +29,5 @@ for key in John.keys():
 for key,value in John.items():
     print(key,value)
 #in a dict order is not guranteed unlike lists
+
+print("address" in John)
