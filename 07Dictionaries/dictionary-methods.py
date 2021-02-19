@@ -1,7 +1,18 @@
 #dictionary methods
 #clear
-#clears all kwys and values in a dictionary
+#clears all keys and values in a dictionary
 d = dict(a=1, b=2, c=3)
 print(d)
 d.clear()
 print(d)
+#pop
+#remove an item
+#a key must be provided
+John = {
+    "gender": "male",
+    "age": 32,
+    "nationality": "kenyan",
+    "isMarried": True
+}
+John.pop("age")
+print(John)
