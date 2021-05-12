@@ -16,3 +16,17 @@ John = {
 }
 John.pop("age")
 print(John)
+
+#popitem
+#removes a random key in a dictionary
+#takes no arguments
+
+John.popitem()
+
+#update
+mike = {
+    "city": "Nairobi"
+}
+
+mike.update(John)
+print(mike)
