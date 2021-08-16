@@ -7,4 +7,12 @@ functions in python are defined using the `def` keyword
 passed during function defination  
 
 ## keyword Arguments
-passed when invoking a function
+passed when invoking a function  
+
+## Documenting
+use triple double quotes`(""" documentation """)` to document a function  
+invoke by
+
+```py
+functionName.__doc__
+```
