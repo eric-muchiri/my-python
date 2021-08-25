@@ -16,3 +16,10 @@ invoke by
 ```py
 functionName.__doc__
 ```
+
+##args
+
+`*args`- select all arguments and store in a list  
+passed as a function
+
+`**kwargs` -  gathers remaining keyword args as a dictionary
