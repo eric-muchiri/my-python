@@ -30,3 +30,7 @@ passed as a function
  * `*args`
  * Default parameters
  * `**kwargs`
+
+## Tuple unpacking
+
+The `*` in `*args` is important to ensure args are read individually  
