@@ -17,9 +17,16 @@ invoke by
 functionName.__doc__
 ```
 
-##args
+## args
 
 `*args`- select all arguments and store in a list  
 passed as a function
 
 `**kwargs` -  gathers remaining keyword args as a dictionary
+
+## ordering parameters
+
+ * parameters
+ * `*args`
+ * Default parameters
+ * `**kwargs`
