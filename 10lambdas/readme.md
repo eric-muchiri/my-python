@@ -12,3 +12,9 @@ A standard function that takes at least two args
 * an iterable (sth that can be iterated )
 
 Runs the labda for each value and returns a map object that can be converted to another data structure  
+
+### filter
+
+There is a lambda for each value in the iterable  
+returns a filter object thatcan be turned into other iterables  
+The object only contains values that return true to the lambdas  
